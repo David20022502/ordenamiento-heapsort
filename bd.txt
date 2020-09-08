@@ -1,0 +1,11 @@
+elementos sin ordenar
+2
+4
+1
+3
+elementos ordenados
+1
+2
+3
+4
+algoritmo utilizado: heapsort
